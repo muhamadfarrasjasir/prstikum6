@@ -1,12 +1,12 @@
-# prstikum6
-Berikut Ini Adalah Program Sederhana Menggunakan
-Tambah Data(),Tampilkan Data(),Hapus Data(),Ubah Data()
-![Screenshot (79)](https://user-images.githubusercontent.com/115479895/204558763-ab0c6a98-aa0a-4e00-961c-e1f5f44bafc3.png)
-![Screenshot (81)](https://user-images.githubusercontent.com/115479895/204559001-6b44b699-35c2-4edd-b340-2220e1cccf87.png)
+# pratikum6
+perogram sederhana
+![Screenshot (91)](https://user-images.githubusercontent.com/115479895/205405141-273c8dd0-699e-4b2d-b3d6-de33bf2e8b71.png)
+Saya Bisanya Begini Pak
 
-Masukkan Nama,Nim,Nilai UTS,Nilai UAS, Nilai Tugas
-dan Nilai Akhir adalah Nilai Yang DItambahkan
-Dari Nilai Tugas Nilai UTS Nilai UAS
-![Screenshot (83)](https://user-images.githubusercontent.com/115479895/204559694-fd9492de-fe59-44ca-9238-6a8896122d9e.png)
+![Screenshot (92)](https://user-images.githubusercontent.com/115479895/205405207-f3094b64-63c1-4c96-afe6-b0af6482ecae.png)
+
+TARAAAAAAAAAAAAAAAAAAAA DAH JADII
+
+![Screenshot (90)](https://user-images.githubusercontent.com/115479895/205405345-3af968d1-5998-4ad0-9e18-d15c89a02e96.png)
 
 
